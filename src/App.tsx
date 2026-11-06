@@ -5,6 +5,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { motion } from 'motion/react';
+import { Analytics } from '@vercel/analytics/react';
 import { Navbar } from './components/Navbar.tsx';
 import { Hero } from './components/Hero.tsx';
 import { Manifesto } from './components/Manifesto.tsx';
@@ -133,6 +134,7 @@ export default function App() {
         onClose={() => setIsDemoOpen(false)}
         onOpenContact={() => setIsContactOpen(true)}
       />
+      <Analytics />
     </motion.div>
   );
 }
