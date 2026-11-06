@@ -1,0 +1,6 @@
+{
+  "name": "Vantix Studios",
+  "description": "Digital experiences. Built for business. High-impact intelligent systems, digital architectures, and transformative creative technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
