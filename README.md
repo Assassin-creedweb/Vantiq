@@ -1,4 +1,4 @@
-# Vantix Studios
+# Vantiq Studios
 
 > **Digital Experiences. Built for Business.**  
 > High-impact intelligent systems, digital architectures, and transformative creative technology.
@@ -104,4 +104,4 @@ npm run preview
 
 ## License
 
-Private repository. All rights reserved. &copy; Vantix Studios.
+Private repository. All rights reserved. &copy; Vantiq Studios.
